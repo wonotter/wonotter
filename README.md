@@ -1,4 +1,5 @@
-## Hi there 👋
+## 📝 Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wonotter&limit=1)](https://velog.io/@wonotter)
 
 <!--
 **wonotter/wonotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
