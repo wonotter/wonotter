@@ -2,7 +2,7 @@
   
   ## ✋ About me
   <!--Header-->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=5000&color=F4FEFF&width=435&lines=%ED%95%A8%EA%BB%98+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%99%84%EC%84%B1%ED%95%B4%EB%82%98%EA%B0%80%EB%8A%94+%EA%B0%80%EC%B9%98%EB%A5%BC+%EB%AF%BF%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=5000&color=36BCF7FF&width=435&lines=%ED%95%A8%EA%BB%98+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%99%84%EC%84%B1%ED%95%B4%EB%82%98%EA%B0%80%EB%8A%94+%EA%B0%80%EC%B9%98%EB%A5%BC+%EB%AF%BF%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
   
 </div>
 
